@@ -10,4 +10,4 @@
    node app-2.js
 ```
 
-# Add link and database link in `.env` file. Data also save in `user.txt` file
+# Add database link in `.env` file. Data also save in `user.txt` file
